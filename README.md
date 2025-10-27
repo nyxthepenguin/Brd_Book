@@ -39,7 +39,7 @@
       <li>Nyx: the narrator. the coder of the game, the only one who knows the others are real people.</li>
       <li>Tempest: a dragon. the daydreamer, he wonders why he is always being left behind.</li>
       <li>Pyro: an arsonist. the chaotic one, she will burn your house down to steal snacks.</li>
-      <li>Triaxis: a scientist. the achiever, she hopes she can be good enough for others to love her.</li>
+      <li>Triaxis: a scientist. the overachiever, she hopes she can be good enough for others to love her.</li>
       <li>Axtrexis: a necromancer. the voice of reason, he hates seeing people leave so he forces them back to life.</li>
       <li>Usayl: a wandering trader. the untethered soul, she wishes to see all the beauty of the world.</li>
       <li>Void: an NPC. the simplistic jester, void ... dies? (idk i'll change this later)</li>
