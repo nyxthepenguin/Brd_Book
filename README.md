@@ -1,6 +1,7 @@
-<!DOCTYPE HTML>
 <html>
-  <head>Brd Book</head>
+  <head>
+    <title>Brd Book</title>
+  </head>
   <body>
     <h1>BRD BOOK.</h1>
     <h2>A book about BRD.</h2>
