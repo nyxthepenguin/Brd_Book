@@ -6,8 +6,8 @@
     <h2>A book about BRD.</h2>
     <hr>
     <h2>Hello, adventurer, perhaps you would like to stay for a while?</h2>
-    <h2>I̵̡̼͉̮̟͍͎̝̞͇͕̦̘͎͓̖͉̹͙̤ͪͮ̂̿̎̿ͤͨ͊̀̉ͯ̈́ͮ̀͒̈͒́̚̕͢͜͡͡͡ -w̭ͮͧ_̵̷̨̢̡̧̭̦̭̰͉̻̹̰̐͋̄ͬ́̏̂ͫ͗̏̆́͘͢͜e̞͕̗̥̣̟̤̦͕̹̪͈͆͑̈́̃ͫ͑̈́̚_̷̵̨̩̬̦̤̊̐̈ͭ͑- hope you find some use for what we have to offer.
-    The labyriths are right this way...</h2>
+    <h2>I̵̡̼͉̮̟͍͎̝̞͇͕̦̘͎͓̖͉̹͙̤ͪͮ̂̿̎̿ͤͨ͊̀̉ͯ̈́ͮ̀͒̈͒́̚̕͢͜͡͡͡ -w̭ͮͧ_̵̷̨̢̡̧̭̦̭̰͉̻̹̰̐͋̄ͬ́̏̂ͫ͗̏̆́͘͢͜e̞͕̗̥̣̟̤̦͕̹̪͈͆͑̈́̃ͫ͑̈́̚_̷̵̨̩̬̦̤̊̐̈ͭ͑- hope you find some use for what we have to offer.</h2>
+    <h2>The labyriths are right this way...</h2>
     <hr>
     <hr>
     <hr>
