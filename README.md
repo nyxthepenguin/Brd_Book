@@ -3,6 +3,6 @@ Brd Book!
 <!DOCTYPE HTML>
 <html>
   <head>
-    <title>BRD BOOK</title>
+    <title> BRD BOOK </title>
   </head>
 </html>
