@@ -1,8 +1,6 @@
-# Brd_Book
-Brd Book!
 <!DOCTYPE HTML>
 <html>
   <head>
-    <title> BRD BOOK </title>
+    <title>Brd Book!</title>
   </head>
 </html>
