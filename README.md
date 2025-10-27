@@ -16,6 +16,14 @@
     <hr>
     <hr>
     <hr>
+    <h2>...</h2>
+    <hr>
+    <hr>
+    <hr>
+    <h2>...</h2>
+    <hr>
+    <hr>
+    <hr>
     <h2>Plot: 5 teenagers who feel like outcasts in their lives get trapped in a game... They play without knowing the others are real people trapped with them...</h2>
     <h2>The characters:</h2>
     <ol>
